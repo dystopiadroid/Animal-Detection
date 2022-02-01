@@ -4,7 +4,7 @@ import Landing from './components/Landing';
 
 const App = () => {
   useEffect(() => {
-    document.title = "Eye Of Nature"
+    document.title = "Animal Detection"
   },[])
   return ( 
     <Landing />
